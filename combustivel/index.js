@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 var tanque_1 = require("./tanque");
-var teclado = require("../modulador/node_modules/readline-sync");
+var teclado = require("readline-sync");
 console.log("qual  o tamanho do tanque do seu ve\u00EDculo:");
 var volume = teclado.questionInt();
 var carro = new tanque_1.default(volume);

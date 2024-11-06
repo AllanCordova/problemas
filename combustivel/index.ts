@@ -1,5 +1,5 @@
 import Tanque from "./tanque";
-import * as teclado from '../modulador/node_modules/readline-sync';
+import * as teclado from 'readline-sync';
 
 console.log(`qual  o tamanho do tanque do seu veículo:`)
 let volume: number = teclado.questionInt();
