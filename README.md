@@ -13,7 +13,7 @@ Os exercícios estão organizados em pastas, cada uma com um nome específico e 
   - **Objetivo**: Permitir a criação de um produto e de sua etiqueta.
   
 - **combustivel**
--  **Descrição**: Esteexercício propõe comtemplar um tanque de carro dado o tamanho do mesmo.
+-  **Descrição**: Este exercício propõe comtemplar um tanque de carro dado o tamanho do mesmo.
 -  **Objetivo**: Permitir a criação de um objeto com determinado volume de tanque o poder encher o mesmo, podendo ver tamanho do tanque quantidade de carga e porcentagem atual de seu enximento.
 ---
 
