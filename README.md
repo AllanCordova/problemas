@@ -1,6 +1,7 @@
 # Repositório de Exercícios em TypeScript
 
 Este repositório é dedicado à resolução de exercícios de programação em TypeScript. Cada pasta neste diretório representa um exercício ou conjunto de exercícios, com o objetivo de aprimorar habilidades em lógica, manipulação de dados, e outros conceitos essenciais de TypeScript.
+Os exercícios em questão emcontram-se na branch master
 
 ## Estrutura dos Exercícios
 
