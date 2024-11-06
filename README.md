@@ -16,6 +16,11 @@ Os exercícios estão organizados em pastas, cada uma com um nome específico e 
 - **combustivel**
   -  **Descrição**: Este exercício propõe comtemplar um tanque de carro dado o tamanho do mesmo.
   -  **Objetivo**: Permitir a criação de um objeto com determinado volume de tanque o poder encher o mesmo, podendo ver tamanho do tanque quantidade de carga e porcentagem atual de seu enximento.
+  
+- **cumprimento**
+  - **Descrição**: Este ecercício simula objetos pessoas que podem cumprimentar-se.
+  - **Objetivo**: Permitir objetos se cumprimentarem de três maneirar diferentes se conhecendo, sabendo o nome ou sendo desconhecidas.
+ 
 ---
 
 Sinta-se à vontade para explorar cada pasta e ver como os desafios foram solucionados. Novos exercícios serão adicionados periodicamente conforme o progresso nos estudos de TypeScript.
