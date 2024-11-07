@@ -20,6 +20,10 @@ Os exercícios estão organizados em pastas, cada uma com um nome específico e 
 - **cumprimento**
   - **Descrição**: Este ecercício simula objetos pessoas que podem cumprimentar-se.
   - **Objetivo**: Permitir objetos se cumprimentarem de três maneirar diferentes se conhecendo, sabendo o nome ou sendo desconhecidas.
+- **relógio**
+  - **Descrição**: Este exercicio deseja encontrar a angulação dos ponteiros de um relógio.
+  - **Objetivo**: Dar o valor em graus dos ponteiros de minutos e horas em um relógio.
+
  
 ---
 
