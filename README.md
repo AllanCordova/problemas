@@ -26,10 +26,10 @@ Os exercícios estão organizados em pastas, cada uma com um nome específico e 
 - **dado**
   - **Descrição**: Este exercício quer encontar efetuar a rolagem de um dado com n faces.
   - **Objetivo**: Afim de mostar o ultimo valor sorteado pela ultima rolagem do dado.
- - **população**
+- **população**
   - **Descrição**: Este exercício quer descobrir a densidade de determinada cidade.
   - **Objetivo**: mostrando a quantidade de hab/km².
-  - - **venda**
+- **venda**
   - **Descrição**: Este exercício quer descobrir o valor que um objeto deve ser vendio para que se tenha o valor querido mesmo com uma taxa sobre o objeto.
   - **Objetivo**: descobrir o valor que um objeto deve ser cobrado para se obter o valor pretendido.
 ---
